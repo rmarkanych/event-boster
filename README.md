@@ -3,9 +3,7 @@
 Completed after finished the JS Module course Full Stack Developer Bootcamp 26
 Online by GoIt
 
-##
-
-[Figma](<https://www.figma.com/file/AOs5DvnIvdZ67VSFGB2vXc/EVENT-BOOSTER-(Copy)?node-id=0%3A1>)
+Click [here](<https://www.figma.com/file/AOs5DvnIvdZ67VSFGB2vXc/EVENT-BOOSTER-(Copy)?node-id=0%3A1>) to open model in Figma or [here](<https://illfoxlli.github.io/five-molfars-and-3ypa/>) if you want to open live page.
 
 <img width="536" alt="Screenshot 2022-10-03 at 16 12 39" src="https://user-images.githubusercontent.com/82537324/193586788-b09b8b75-89e1-4987-8605-8be60c651c42.png">
 
@@ -40,21 +38,21 @@ Online by GoIt
 
 Technologies used to implement the project:
 
-- vs code
-- git
-- postman
-- trello
-- npm
-- parcel
-- handlebars
+- VS code
+- GIT
+- Postman
+- Trello
+- NPM
+- Parcel
+- Handlebars
 - HTML 5
 - SASS 
 - JS
 
 Project implemented:
 
-- all items according to:
-  [TASK LIST](https://docs.google.com/spreadsheets/d/18ZVUlEGkuRkVgS3UyUZ-1_SAuVJoNGjzhUcUF3xOhRQ/edit#gid=0)
+- all items according to
+  [task list](https://docs.google.com/spreadsheets/d/18ZVUlEGkuRkVgS3UyUZ-1_SAuVJoNGjzhUcUF3xOhRQ/edit#gid=0)
 
 - additionally:
   - customize scroll
