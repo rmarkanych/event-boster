@@ -47,8 +47,7 @@ Technologies used to implement the project:
 - parcel
 - handlebars
 - HTML 5
-- SASS
-- CSS 
+- SASS 
 - JS
 
 Project implemented:
@@ -100,7 +99,7 @@ Project implemented:
 
 - Modal appearance animation for team
 - Markup and modal styles for team
-- - logo display (phone, tablet, desktop)
+- logo display (phone, tablet, desktop)
 - displaying the title (phone, tablet, desktop)
 - markup of the search bar
 - marking of the country selection line
