@@ -1,4 +1,4 @@
-# Team project "Five molfars && 3YPA"
+# Team project "Event Boster"
 
 Completed after finished the JS Module course Full Stack Developer Bootcamp 26
 Online by GoIt
